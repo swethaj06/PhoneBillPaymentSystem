@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\liveg\\Downloads\\openjfx-23.0.1_windows-x64_bin-sdk\\javafx-sdk-23.0.1\\lib\\javafx.media.jar",
+        "c:\\Users\\liveg\\Downloads\\openjfx-23.0.1_windows-x64_bin-sdk\\javafx-sdk-23.0.1\\lib\\javafx.swing.jar",
+        "c:\\Users\\liveg\\Downloads\\openjfx-23.0.1_windows-x64_bin-sdk\\javafx-sdk-23.0.1\\lib\\javafx.web.jar",
+        "c:\\Users\\liveg\\Downloads\\openjfx-23.0.1_windows-x64_bin-sdk\\javafx-sdk-23.0.1\\lib\\javafx.base.jar",
+        "c:\\Users\\liveg\\Downloads\\openjfx-23.0.1_windows-x64_bin-sdk\\javafx-sdk-23.0.1\\lib\\javafx.controls.jar",
+        "c:\\Users\\liveg\\Downloads\\openjfx-23.0.1_windows-x64_bin-sdk\\javafx-sdk-23.0.1\\lib\\javafx.fxml.jar",
+        "c:\\Users\\liveg\\Downloads\\openjfx-23.0.1_windows-x64_bin-sdk\\javafx-sdk-23.0.1\\lib\\javafx.graphics.jar",
+        "c:\\Users\\liveg\\Downloads\\openjfx-23.0.1_windows-x64_bin-sdk\\javafx-sdk-23.0.1\\lib\\javafx-swt.jar"
+    ],
+    "java.jdt.ls.java.home": "C:\Program Files\Java\jdk-17"
